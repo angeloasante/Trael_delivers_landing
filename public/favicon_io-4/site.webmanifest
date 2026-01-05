@@ -1,0 +1,22 @@
+{
+  "name": "Trael - Food Delivery",
+  "short_name": "Trael",
+  "description": "Order your favorites, faster & for less. Ghana's #1 food delivery app.",
+  "icons": [
+    {
+      "src": "/favicon_io-4/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon_io-4/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#22c55e",
+  "background_color": "#111111",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
